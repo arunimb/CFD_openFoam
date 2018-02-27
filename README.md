@@ -1,2 +1,2 @@
 # CFD_openFoam
-Open FOam solver which includes calculation for Nusselt number.
+Open Foam solver which includes calculation for Nusselt number.
